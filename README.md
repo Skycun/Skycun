@@ -109,7 +109,7 @@ WordPress/WooCommerce e-commerce solutions for various clients.
 
 - **Anthropic AI Fluency for Students** - 2025
 - **TOEIC (B2+ 870)** - 2025
-- Projet Voltaire - 2024
+- **Projet Voltaire** - 2024
 
 ---
 
@@ -121,6 +121,5 @@ WordPress/WooCommerce e-commerce solutions for various clients.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-briceledanois.fr-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://briceledanois.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brice-ledanois)
-[![Steam](https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/mirror-soul)
 
 </div>
