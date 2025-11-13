@@ -1,6 +1,6 @@
 # Hey, I'm Brice 👾
 
-**Game Developer | Web Developer | Homelab Enthusiast**
+**Game Developer | Web Developer | Curious Developer**
 
 I'm a French developer specializing in game development while maintaining strong fullstack web capabilities. Currently pursuing my BUT MMI degree and preparing for [CNAM ENJMIN](https://enjmin.cnam.fr/), France's top game development master's program.
 
