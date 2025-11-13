@@ -19,17 +19,17 @@ const brice = {
 
 ## 🎮 Current Projects
 
-### [Mirror Soul!](https://github.com/yourusername/mirror-soul) 
+### [Mirror Soul!]([https://github.com/yourusername/mirror-soul](https://store.steampowered.com/app/3190540/Mirror_Soul/)) 
 **3D Isometric Puzzle Platformer**  
 A unique game featuring symmetry-based mechanics where players control two characters simultaneously in mirrored worlds.
 - **Tech**: Unity, C#
 - **Status**: Active Development
 - **Role**: Solo Developer (Programming, Game Design, Art Direction)
 
-### [Culturia Quests](https://github.com/yourusername/culturia-quests)
+### Culturia Quests (Work In Progress)
 **Gamified Cultural Discovery App**  
 Mobile application encouraging 15-24 year olds to visit cultural sites through RPG elements and location-based gameplay.
-- **Tech**: React Native, TypeScript
+- **Tech**: JavaScript, TypeScript, Vue, Nuxt
 - **Status**: SAE 501 University Project
 - **Role**: Lead Developer
 
@@ -37,10 +37,10 @@ Mobile application encouraging 15-24 year olds to visit cultural sites through R
 
 ## 🚀 Shipped Projects
 
-**[No More Ads](https://store.steampowered.com/app/mirror-soul)** - Published on Steam & itch.io  
+**[No More Ads](https://skycun.itch.io/no-more-ads)** - Published on itch.io  
 First commercial game release demonstrating full game development pipeline mastery.
 
-**Minimal Roleplay Platform** - 6-Month Internship  
+**[Minimal Roleplay](https://minimalroleplay.fr)** - 2-Month Internship  
 Fullstack development of a tabletop RPG platform using Vue.js, Nuxt, and Strapi CMS.
 
 **E-Commerce Sites** - Freelance Work  
@@ -59,8 +59,7 @@ WordPress/WooCommerce solutions for various clients.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
