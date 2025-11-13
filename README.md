@@ -1,3 +1,5 @@
+![Github Banner](github-banner.png)
+
 # Hey, I'm Brice 👾
 
 **Game Developer | Web Developer | Curious Developer**
